@@ -2,14 +2,14 @@ npm i
 npm start
 
 demo:
-![Screenshot 1](./demo/1.png)
-![Screenshot 2](./demo/2.png)
-![Screenshot 3](./demo/3.png)
-![Screenshot 4](./demo/4.png)
-![Screenshot 5](./demo/5.png)
-![Screenshot 6](./demo/6.png)
-![Screenshot 7](./demo/7.png)
-![Screenshot 8](./demo/8.png)
-![Screenshot 9](./demo/9.png)
-![Screenshot 10](./demo/10.png)
-![Screenshot 11](./demo/11.png)
+<img src="./demo/one.png" alt="Screenshot One" width="600"/>
+<img src="./demo/two.png" alt="Screenshot Two" width="600"/>
+<img src="./demo/three.png" alt="Screenshot Three" width="600"/>
+<img src="./demo/four.png" alt="Screenshot Four" width="600"/>
+<img src="./demo/five.png" alt="Screenshot Five" width="600"/>
+<img src="./demo/six.png" alt="Screenshot Six" width="600"/>
+<img src="./demo/seven.png" alt="Screenshot Seven" width="600"/>
+<img src="./demo/eight.png" alt="Screenshot Eight" width="600"/>
+<img src="./demo/nine.png" alt="Screenshot Nine" width="600"/>
+<img src="./demo/ten.png" alt="Screenshot Ten" width="600"/>
+<img src="./demo/eleven.png" alt="Screenshot Eleven" width="600"/>
